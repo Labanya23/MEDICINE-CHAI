@@ -1,0 +1,2 @@
+# MEDICINE-CHAI
+Django Project
